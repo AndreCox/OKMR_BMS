@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "BAS16")(type "KiCad")(uri "${KIPRJMOD}/BAS16.kicad_sym")(options "")(descr ""))
+  (lib (name "Samacsys")(type "KiCad")(uri "${KIPRJMOD}/local_libs/Samacsys.kicad_sym")(options "")(descr ""))
+)

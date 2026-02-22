@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "MIDI_fuse")(type "KiCad")(uri "${KIPRJMOD}/MIDI_fuse.pretty")(options "")(descr ""))
+  (lib (name "Samacsys")(type "KiCad")(uri "${KIPRJMOD}/local_libs/Samacsys.pretty")(options "")(descr ""))
+)
