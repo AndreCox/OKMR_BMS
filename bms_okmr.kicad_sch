@@ -8368,6 +8368,48 @@
 			)
 		)
 	)
+	(sheet
+		(at 241.3 144.78)
+		(size 40.64 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "78655447-7b77-4451-b55f-001c5c60516c")
+		(property "Sheetname" "Control Board"
+			(at 241.3 144.0684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "controller.kicad_sch"
+			(at 241.3 149.1746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "bms_okmr"
+				(path "/5dbd1d70-5782-4f20-b3ac-e22e380e724e"
+					(page "3")
+				)
+			)
+		)
+	)
 	(sheet_instances
 		(path "/"
 			(page "1")
